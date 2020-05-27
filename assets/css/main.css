@@ -31,7 +31,7 @@ body {
 }
 
 ul.announcement-list {
-    margin-left: 1em;
+    margin-left: 0.5em;
     margin-top: 1em;
 }
 
@@ -60,10 +60,10 @@ ul.announcement-list {
 }
 
 .carousel-control-prev {
-    left: 50%;
+    left: 20%;
 }
 .carousel-control-next {
-    right: 50%;
+    right: 20%;
 }
 
 .announcement-item {
