@@ -33,7 +33,6 @@ for i in range(len(weeks)):
 
 
     if i == len(weeks) - 1:
-        print("Currently on Week #%d" % (i+1))
         announcement_tag['class'].append('active')
         wheel_tag['class'] = ['active']
 
