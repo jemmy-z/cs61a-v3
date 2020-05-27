@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+
+body {
+    font-family: 'Baloo 2', cursive;
+}
+
+.navbar {
+    background-color: #b1e30e;
+}
+
+.navbar-brand {
+    font-size: 20pt;
+}
+
+.navbar-collapse {
+    font-size: 15pt;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.carousel {
+    background: #ecffdb;
+    margin-top: 20px;
+    border-radius: 0.5em;
+}
+
+.carousel-inner {
+    align-items: center;
+}
+
+ul.announcement-list {
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+.carousel-indicators li {
+    background-color: #020c6e;
+}
+
+.carousel-indicators .active {
+    background-color: #7bff00;
+}
+
+.carousel-item {
+    color: #000000;
+    min-height: 200px;
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+    display:block;
+}
+
+.fa-chevron-left,
+.fa-chevron-right {
+    color: #099905;
+}
+
+.carousel-control-prev {
+    left: 50%;
+}
+.carousel-control-next {
+    right: 50%;
+}
+
+.announcement-item {
+    font-size: 14pt;
+}
