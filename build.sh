@@ -11,10 +11,9 @@ declare -a WEEKS
 declare -a ANNOUNCEMENT_FILES
 declare -a NAVBAR_FILES
 
-WEEKS=(1 2 3)
+WEEKS=(1)
 NAVBAR_FILES=('index.html' 'about.html')
 ANNOUNCEMENT_FILES=("index.html")
-
 
 source venv/bin/activate
 python3 assets/scripts/navbar.py ${NAVBAR_FILES[*]}

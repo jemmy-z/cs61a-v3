@@ -3,8 +3,11 @@ import sys
 from bs4 import BeautifulSoup, Tag
 
 files = sys.argv[1:]
-navbarfile = codecs.open("./templates/navbar.html", "r", "utf-8")
-soup_bar = BeautifulSoup(navbarfile.read(), 'html.parser')
+
+file_to_id = {
+    "index.html" : "nav-bar-index",
+    "about.html" : "nav-bar-about",
+}
 
 for filename in files:
     try:
@@ -13,6 +16,12 @@ for filename in files:
         file = open("temp/%s" % filename, 'w+')
     finally:
         file.close()
+
+    navbarfile = codecs.open("./templates/navbar.html", "r", "utf-8")
+    soup_bar = BeautifulSoup(navbarfile.read(), 'html.parser')
+    active_el = soup_bar.find(id=file_to_id[filename])
+    active_el['class'].append('active')
+
     file = codecs.open("./templates/%s" % filename, "r", "utf-8")
     soup = BeautifulSoup(file.read(), 'html.parser')
 
