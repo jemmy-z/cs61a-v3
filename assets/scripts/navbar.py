@@ -1,28 +1,26 @@
 import codecs
+import sys
 from bs4 import BeautifulSoup, Tag
 
-
-try:
-    f = open("temp/index.html")
-    f2 = open("temp/about.html")
-except IOError:
-    f = open("temp/index.html", 'w+')
-    f2 = open("temp/about.html", 'w+')
-finally:
-    f.close()
-    f2.close()
-
-mainfile = codecs.open("./templates/index.html", "r", "utf-8")
-soup = BeautifulSoup(mainfile.read(), 'html.parser')
-
+files = sys.argv[1:]
 navbarfile = codecs.open("./templates/navbar.html", "r", "utf-8")
 soup_bar = BeautifulSoup(navbarfile.read(), 'html.parser')
 
-navbar = soup.find(id="navbar")
-navbar.append(str(soup_bar))
+for filename in files:
+    try:
+        file = open("temp/%s" % filename)
+    except IOError:
+        file = open("temp/%s" % filename, 'w+')
+    finally:
+        file.close()
+    file = codecs.open("./templates/%s" % filename, "r", "utf-8")
+    soup = BeautifulSoup(file.read(), 'html.parser')
 
-stringy = str(soup.prettify())
-stringy = stringy.replace('&lt;', '<')
-stringy = stringy.replace('&gt;', '>')
-outfile = codecs.open("./temp/index.html", "w+", "utf-8")
-outfile.write(stringy)
+    navbar = soup.find(id="navbar")
+    navbar.append(str(soup_bar))
+
+    stringy = str(soup.prettify())
+    stringy = stringy.replace('&lt;', '<')
+    stringy = stringy.replace('&gt;', '>')
+    outfile = codecs.open("./temp/%s" % filename, "w+", "utf-8")
+    outfile.write(stringy)

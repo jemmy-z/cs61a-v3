@@ -5,9 +5,18 @@ import xml.etree.ElementTree as ET
 
 from bs4 import BeautifulSoup, Tag
 
-weeks = [int(w) for w in sys.argv[1:]]
+try:
+    f = open("temp/index.html")
+except IOError:
+    f = open("temp/index.html", 'w+')
+finally:
+    f.close()
 
-file = codecs.open("./temp/post-nav.html", "r", "utf-8")
+
+file = sys.argv[1]
+weeks = [int(w) for w in sys.argv[2:]]
+
+file = codecs.open("./temp/%s" % file, "r", "utf-8")
 soup = BeautifulSoup(file.read(), 'html.parser')
 
 announcements = soup.find(id="carousel-announcements")
@@ -51,5 +60,5 @@ for i in range(len(weeks)):
 stringy = str(soup.prettify())
 stringy = stringy.replace('&lt;', '<')
 stringy = stringy.replace('&gt;', '>')
-file = codecs.open("index.html", "w", "utf-8")
+file = codecs.open("temp/index.html", "w", "utf-8")
 file.write(stringy)
