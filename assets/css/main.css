@@ -5,7 +5,7 @@ body {
 }
 
 .navbar {
-    background-color: #a6e7ff;
+    background-color: #a6e7ff !important;
 }
 
 .navbar-brand {
@@ -38,7 +38,7 @@ body {
 }
 
 .carousel-item {
-    color: #000000;
+    color: #000000 !important;
     min-height: 200px;
 }
 
@@ -50,7 +50,7 @@ body {
 
 .fa-chevron-left,
 .fa-chevron-right {
-    color: #0084ff;
+    color: #0084ff !important;
 }
 
 .carousel-control-prev {
