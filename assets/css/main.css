@@ -25,16 +25,16 @@ body {
 }
 
 .carousel {
-    background: #e0f7ff;
+    background: #e0f7ff !important;
     border-radius: 0.5em;
 }
 
 .carousel-indicators li {
-    background-color: #00098a;
+    background-color: #00098a !important;
 }
 
 .carousel-indicators .active {
-    background-color: #70c8ff;
+    background-color: #70c8ff !important;
 }
 
 .carousel-item {
