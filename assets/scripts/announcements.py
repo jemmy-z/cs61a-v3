@@ -31,7 +31,6 @@ for i in range(len(weeks)):
     announcement_tag['id']=["announcement-%s" % (i)]
     announcement_tag['class'] = ['carousel-item', 'p-4']
 
-
     if i == len(weeks) - 1:
         announcement_tag['class'].append('active')
         wheel_tag['class'] = ['active']

@@ -1,5 +1,6 @@
 <announcement>
     <date>Monday, June 29</date>
-    <info>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum faucibus nunc, vitae porta nibh mattis non. Phasellus non felis ut lorem sagittis mattis at viverra ex. Ut mattis justo vitae felis efficitur convallis. Praesent in tincidunt erat. Quisque in nisl tortor. Phasellus vulputate elementum mauris non elementum. Pellentesque at libero rhoncus, ultrices turpis ut, dignissim augue. Curabitur interdum pharetra ligula, vel suscipit lorem semper at. Maecenas quis tellus aliquam, rutrum metus sed, laoreet justo.</info>
-    <info>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum faucibus nunc, vitae porta nibh mattis non. Phasellus non felis ut lorem sagittis mattis at viverra ex. Ut mattis justo vitae felis efficitur convallis. Praesent in tincidunt erat. Quisque in nisl tortor. Phasellus vulputate elementum mauris non elementum. Pellentesque at libero rhoncus, ultrices turpis ut, dignissim augue. Curabitur interdum pharetra ligula, vel suscipit lorem semper at. Maecenas quis tellus aliquam, rutrum metus sed, laoreet justo.</info>
+    <info>Welcome to CS 61A {% SEMESTER %}!</info>
+    <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
+    <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info>
 </announcement>

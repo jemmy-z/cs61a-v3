@@ -20,27 +20,21 @@ body {
     margin-left: auto;
 }
 
+.section-info {
+    line-height: 10px;
+}
+
 .carousel {
     background: #e0f7ff;
-    margin-top: 20px;
     border-radius: 0.5em;
 }
 
-.carousel-inner {
-    align-items: center;
-}
-
-ul.announcement-list {
-    margin-left: 0.5em;
-    margin-top: 1em;
-}
-
 .carousel-indicators li {
-    background-color: #020c6e;
+    background-color: #00098a;
 }
 
 .carousel-indicators .active {
-    background-color: #7bff00;
+    background-color: #70c8ff;
 }
 
 .carousel-item {
@@ -56,7 +50,7 @@ ul.announcement-list {
 
 .fa-chevron-left,
 .fa-chevron-right {
-    color: #099905;
+    color: #0084ff;
 }
 
 .carousel-control-prev {
@@ -66,10 +60,19 @@ ul.announcement-list {
     right: 20%;
 }
 
+ul.announcement-list {
+    margin-left: 0.5em;
+    padding-top: 1em;
+}
+
 .announcement-item {
     font-size: 14pt;
 }
 
 a:hover {
-    text-decoration: none;
+    text-decoration: none !important;
+}
+
+button {
+    text-decoration: none !important;
 }
