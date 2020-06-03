@@ -1,0 +1,6 @@
+<announcement>
+    <date>Monday, July 13 </date>
+    <info>Welcome to CS 61A {% SEMESTER %}!</info>
+    <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
+    <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info>
+</announcement>

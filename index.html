@@ -51,49 +51,9 @@
       </div>
       <div class="col-8">
        <div class="carousel-inner" id="carousel-announcements">
-        <div class="carousel-item p-4" id="announcement-0">
+        <div class="carousel-item p-4 active" id="announcement-0">
          <h1>
           Monday, June 22
-         </h1>
-         <ul class="announcement-list">
-          <li class="announcement-item">
-           Welcome to CS 61A Fall 2020!
-          </li>
-          <li class="announcement-item">
-           This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.
-          </li>
-          <li class="announcement-item">
-           You can find out more about me
-           <a href="about.html">
-            here
-           </a>
-           .
-          </li>
-         </ul>
-        </div>
-        <div class="carousel-item p-4" id="announcement-1">
-         <h1>
-          Monday, June 29
-         </h1>
-         <ul class="announcement-list">
-          <li class="announcement-item">
-           Welcome to CS 61A Fall 2020!
-          </li>
-          <li class="announcement-item">
-           This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.
-          </li>
-          <li class="announcement-item">
-           You can find out more about me
-           <a href="about.html">
-            here
-           </a>
-           .
-          </li>
-         </ul>
-        </div>
-        <div class="carousel-item p-4 active" id="announcement-2">
-         <h1>
-          Monday, July 6
          </h1>
          <ul class="announcement-list">
           <li class="announcement-item">
@@ -124,11 +84,7 @@
       </div>
      </div>
      <ol class="carousel-indicators" id="carousel-indicators">
-      <li data-slide-to="0" data-target="#Announcements">
-      </li>
-      <li data-slide-to="1" data-target="#Announcements">
-      </li>
-      <li class="active" data-slide-to="2" data-target="#Announcements">
+      <li class="active" data-slide-to="0" data-target="#Announcements">
       </li>
      </ol>
     </div>
@@ -151,25 +107,62 @@
     <div class="card">
 <div class="card-header" id="headingOne">
 <h2 class="mb-0">
-<button aria-controls="collapse1" aria-expanded="true" class="btn btn-link collapsed" data-target="#collapse1" data-toggle="collapse" id="week1" type="button">
+<button aria-controls="collapse1" aria-expanded="true" class="btn btn-link" data-target="#collapse1" data-toggle="collapse" id="week1" type="button">
 Week 1 (June 22 - June 26)</button>
 </h2>
 </div>
-<div aria-labelledby="headingOne" class="collapse" data-parent="#weekly-info" id="collapse1">
-<div class="card-body">
-            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
-            moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
-            Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
-            shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea
-            proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim
-            aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-        </div>
+<div aria-labelledby="headingOne" class="collapse show" data-parent="#weekly-info" id="collapse1">
+<div class="card-body" id="card-body-1">
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<h5>Weekly Materials</h5>
+<hr/>
+                        Discussion 1
+                        <ul>
+<li>
+<a class="bordered" href="#" target="_blank">Slides</a>
+<a class="bordered" href="#" target="_blank">Attendance</a>
+<a class="bordered" href="#" target="_blank">Worksheet</a>
+<a class="bordered" href="#" target="_blank">Solutions</a>
+</li>
+</ul>
+                        Discussion 2
+                        <ul>
+<li>
+<a class="bordered" href="#" target="_blank">Slides</a>
+<a class="bordered" href="#" target="_blank">Attendance</a>
+<a class="bordered" href="#" target="_blank">Worksheet</a>
+<a class="bordered" href="#" target="_blank">Solutions</a>
+</li>
+</ul>
+</div>
+<div class="col-md-6">
+<h5>Other Resources</h5>
+<hr/>
+                        Exam Prep
+                        <ul>
+<li>
+<a class="bordered" href="#" target="_blank">Worksheet</a>
+<a class="bordered" href="#" target="_blank">Solutions</a>
+</li>
+</ul>
+                        Notes and Tips
+                        <ul>
+<li>
+<a class="bordered" href="#" target="_blank">Spring 2020 Notes</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 <div class="card">
 <div class="card-header" id="headingTwo">
 <h2 class="mb-0">
-<button aria-controls="collapse2" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse2" data-toggle="collapse" id="week2" type="button">
+<button aria-controls="collapse2" aria-expanded="false" class="btn btn-link collapsed disabled" data-target="#collapse2" data-toggle="collapse" id="week2" type="button">
 Week 2 (June 29 - July 3)</button>
 </h2>
 </div>
@@ -187,11 +180,11 @@ Week 2 (June 29 - July 3)</button>
 <div class="card">
 <div class="card-header" id="headingThree">
 <h2 class="mb-0">
-<button aria-controls="collapse3" aria-expanded="false" class="btn btn-link" data-target="#collapse3" data-toggle="collapse" id="week3" type="button">
+<button aria-controls="collapse3" aria-expanded="false" class="btn btn-link collapsed disabled" data-target="#collapse3" data-toggle="collapse" id="week3" type="button">
 Week 3 (July 6 - July 10)</button>
 </h2>
 </div>
-<div aria-labelledby="headingThree" class="collapse show" data-parent="#weekly-info" id="collapse3">
+<div aria-labelledby="headingThree" class="collapse" data-parent="#weekly-info" id="collapse3">
 <div class="card-body">
             Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
             moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.

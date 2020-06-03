@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Baloo 2', cursive;
+    font-size: 13pt;
 }
 
 .navbar {
@@ -9,11 +10,11 @@ body {
 }
 
 .navbar-brand {
-    font-size: 20pt;
+    font-size: 16pt;
 }
 
 .navbar-collapse {
-    font-size: 15pt;
+    font-size: 14pt;
 }
 
 .navbar-nav {
@@ -66,7 +67,7 @@ ul.announcement-list {
 }
 
 .announcement-item {
-    font-size: 14pt;
+    font-size: 13pt;
 }
 
 a:hover {
@@ -76,3 +77,16 @@ a:hover {
 button {
     text-decoration: none !important;
 }
+
+.bordered {
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 0.2em;
+    font-size: 10pt;
+    padding: 0 5px 0 5px;
+}
+
+    .bordered:hover {
+        background-color:#429bf4;
+        color: white;
+    }
