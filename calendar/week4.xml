@@ -1,3 +1,76 @@
 <announcement>
     <header>Week 4 (July 13 - July 17)</header>
+    <column>
+        Weekly Materials
+        <section>
+            Discussion 3
+            <item>
+                Slides
+                <url>#</url>
+                <disabled>False</disabled>
+            </item>
+            <item>
+                Attendance
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+            <item>
+                Worksheet
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+            <item>
+                Slides
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+        <section>
+            Discussion 4
+            <item>
+                Slides
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+            <item>
+                Attendance
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+            <item>
+                Worksheet
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+            <item>
+                Slides
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+    </column>
+    <column>
+        Other Resources
+        <section>
+            Exam Prep
+            <item>
+                Worksheet
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+            <item>
+                Solutions
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+        <section>
+            Notes
+            <item>
+                Spring 2020 Notes
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+    </column>
 </announcement>

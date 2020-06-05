@@ -55,5 +55,11 @@
                 <disabled>True</disabled>
             </item>
         </section>
+        <section>Tips
+            <item>Spring 2020 Tips
+                <url>#</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
     </column>
 </announcement>

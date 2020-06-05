@@ -3,6 +3,7 @@
 body {
     font-family: 'Baloo 2', cursive;
     font-size: 13pt;
+    padding-top: 70px;
 }
 
 .navbar {
@@ -90,4 +91,36 @@ button {
     .bordered:hover {
         background-color:#429bf4;
         color: white;
+    }
+
+footer {
+    color: #a1bed1;
+    letter-spacing: 0.3em;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 5em;
+    margin-bottom: 7em;
+}
+
+footer hr {
+    border: 2px solid #e1f0fa;
+    margin: 2em 0 2em 0;
+}
+
+footer div {
+    line-height: 1em;
+    margin: 2em 0 2em 0;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    font-size: 18px;
+    margin: 0 0.5em 0 0.5em;
+    color: #93e4ff;
+}
+    footer a:hover {
+        color: #555;
     }
