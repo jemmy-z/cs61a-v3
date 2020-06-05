@@ -12,7 +12,7 @@ declare -a ANNOUNCEMENT_FILES
 declare -a NAVBAR_FILES
 
 SEMESTER="Fall 2020"
-WEEKS=(1)
+WEEKS=(1 2)
 NAVBAR_FILES=("index.html" "about.html")
 INDEX_FILES=("index.html")
 
