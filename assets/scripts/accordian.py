@@ -47,6 +47,7 @@ for i in weeks:
                 lk['class'] =  ['bordered']
                 lk.string = item.text.rstrip()
                 lk['href'] = item[0].text.rstrip()
+                lk['target'] = ['_blank']
                 if item[1].text == "True":
                     lk['class'].extend(['btn-link', 'disabled'])
                 listItem.append(lk)
