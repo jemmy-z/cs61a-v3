@@ -12,8 +12,8 @@ file_to_id = {
 for filename in files:
     try:
         file = open("temp/%s" % filename)
-    except IOError:
-        file = open("temp/%s" % filename, 'w+')
+    except FileNotFoundError:
+        file = open("temp/%s" % filename, 'w')
     finally:
         file.close()
 
