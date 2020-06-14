@@ -16,6 +16,7 @@ WEEKS=(1)
 SURVEY="https://forms.gle/thhtwLmhEGgTbYkC7"
 VERSION="v1.0.1"
 
+HEADER_FILES=("index.html" "about.html")
 NAVBAR_FILES=("index.html" "about.html")
 INDEX_FILES=("index.html")
 CALENDAR_FILES=("index.html")
@@ -23,6 +24,8 @@ FOOTER_FILES=("index.html" "about.html")
 
 mkdir -p temp
 source venv/bin/activate
+python3 assets/scripts/header.py ${HEADER_FILES[*]}
+echo "Finished assembling header in ${HEADER_FILES[*]}"
 python3 assets/scripts/navbar.py ${NAVBAR_FILES[*]}
 echo "Finished assembling navbar in ${NAVBAR_FILES[*]}"
 python3 assets/scripts/announcements.py ${CALENDAR_FILES[*]} ${WEEKS[*]}

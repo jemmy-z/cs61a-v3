@@ -10,19 +10,12 @@ file_to_id = {
 }
 
 for filename in files:
-    try:
-        file = open("temp/%s" % filename)
-    except FileNotFoundError:
-        file = open("temp/%s" % filename, 'w')
-    finally:
-        file.close()
-
     navbarfile = codecs.open("./templates/navbar.html", "r", "utf-8")
     soup_bar = BeautifulSoup(navbarfile.read(), 'html.parser')
     active_el = soup_bar.find(id=file_to_id[filename])
     active_el['class'].append('active')
 
-    file = codecs.open("./templates/%s" % filename, "r", "utf-8")
+    file = codecs.open("./temp/%s" % filename, "r", "utf-8")
     soup = BeautifulSoup(file.read(), 'html.parser')
 
     navbar = soup.find(id="navbar")
