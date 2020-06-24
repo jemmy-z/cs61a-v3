@@ -3,19 +3,19 @@
     <column>Weekly Materials
         <section>Discussion 1
             <item>Slides
-                <url>#</url>
+                <url>https://docs.google.com/presentation/d/1YIkJT-5RYzwvC4feMUYaKILDGJ57i6GWQNBF4BiWuBM/edit?usp=sharing</url>
                 <disabled>True</disabled>
             </item>
-            <item>Attendance
-                <url>#</url>
-                <disabled>True</disabled>
+            <item>Intro Survey
+                <url>https://docs.google.com/forms/d/e/1FAIpQLSfVnriUycWruOlSa_NZLblQniiHHq4Vb7U09MbLHTN0xV-eFg/viewform?usp=sf_link</url>
+                <disabled>False</disabled>
             </item>
             <item>Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc00.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>Solutions
-                <url>#</url>
+                <url>https://cs61a.org/disc/disc00_sol.pdf</url>
                 <disabled>True</disabled>
             </item>
         </section>
@@ -39,27 +39,5 @@
         </section>
     </column>
     <column>Other Resources
-        <section>Exam Prep
-            <item>Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>Solutions
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-        </section>
-        <section>Notes
-            <item>Spring 2020 Notes
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-        </section>
-        <section>Tips
-            <item>Spring 2020 Tips
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-        </section>
     </column>
 </announcement>
