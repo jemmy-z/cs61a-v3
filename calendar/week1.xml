@@ -21,19 +21,19 @@
         </section>
         <section>Discussion 2
             <item>Slides
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/presentation/d/1-uEFKmWt2SzNpSzW7Z-SfclWYC-g42hp_3y7k1EBu9Y/edit?usp=sharing</url>
+                <disabled>False</disabled>
             </item>
             <item>Attendance
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/forms/d/e/1FAIpQLSe3MXG1Fz7GnTcs5QF4UA3EU_37QKbSHD5aPk_J2SThuPo1ug/viewform?usp=sf_link</url>
+                <disabled>False</disabled>
             </item>
             <item>Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc01.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>Solutions
-                <url>#</url>
+                <url>https://cs61a.org/disc/disc01_sol.pdf</url>
                 <disabled>True</disabled>
             </item>
         </section>
