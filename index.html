@@ -52,7 +52,7 @@
       </div>
       <div class="col-8">
        <div class="carousel-inner" id="carousel-announcements">
-        <div class="carousel-item p-4 active" id="announcement-0">
+        <div class="carousel-item p-4" id="announcement-0">
          <h1>
           Wednesday, June 22
          </h1>
@@ -89,6 +89,29 @@
           </li>
          </ul>
         </div>
+        <div class="carousel-item p-4 active" id="announcement-1">
+         <h1>
+          Wednesday, July 1
+         </h1>
+         <ul class="announcement-list">
+          <li class="announcement-item">
+           Welcome to CS 61A Summer 2020!
+          </li>
+          <li class="announcement-item">
+           This semester, we will be meeting entirely online! Check piazza/emails for Zoom links and more info.
+          </li>
+          <li class="announcement-item">
+           Please come to section having watched lecture! The pace of the course during summer is
+           <b>
+            very
+           </b>
+           fast.
+          </li>
+          <li class="announcement-item">
+           There is no discussion Friday.
+          </li>
+         </ul>
+        </div>
        </div>
       </div>
       <div class="col-2">
@@ -102,7 +125,9 @@
       </div>
      </div>
      <ol class="carousel-indicators" id="carousel-indicators">
-      <li class="active" data-slide-to="0" data-target="#Announcements">
+      <li data-slide-to="0" data-target="#Announcements">
+      </li>
+      <li class="active" data-slide-to="1" data-target="#Announcements">
       </li>
      </ol>
     </div>
@@ -122,12 +147,12 @@
     <div class="card">
      <div class="card-header" id="headingOne">
       <h2 class="mb-0">
-       <button aria-controls="collapse1" aria-expanded="true" class="btn btn-link" data-target="#collapse1" data-toggle="collapse" id="week1" type="button">
+       <button aria-controls="collapse1" aria-expanded="true" class="btn btn-link collapsed" data-target="#collapse1" data-toggle="collapse" id="week1" type="button">
         Week 1 (June 22 - June 26)
        </button>
       </h2>
      </div>
-     <div aria-labelledby="headingOne" class="collapse show" data-parent="#weekly-info" id="collapse1">
+     <div aria-labelledby="headingOne" class="collapse" data-parent="#weekly-info" id="collapse1">
       <div class="card-body">
        <div class="container">
         <div class="row" id="materials1">
@@ -150,7 +175,7 @@
             <a class="bordered" href="https://cs61a.org/disc/disc00.pdf" target="_blank">
              Worksheet
             </a>
-            <a class="bordered btn-link disabled" href="https://cs61a.org/disc/disc00_sol.pdf" target="_blank">
+            <a class="bordered" href="https://cs61a.org/disc/disc00_sol.pdf" target="_blank">
              Solutions
             </a>
            </li>
@@ -169,7 +194,7 @@
             <a class="bordered" href="https://cs61a.org/disc/disc01.pdf" target="_blank">
              Worksheet
             </a>
-            <a class="bordered btn-link disabled" href="https://cs61a.org/disc/disc01_sol.pdf" target="_blank">
+            <a class="bordered" href="https://cs61a.org/disc/disc01_sol.pdf" target="_blank">
              Solutions
             </a>
            </li>
@@ -189,15 +214,65 @@
     <div class="card">
      <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
-       <button aria-controls="collapse2" aria-expanded="false" class="btn btn-link collapsed disabled" data-target="#collapse2" data-toggle="collapse" id="week2" type="button">
+       <button aria-controls="collapse2" aria-expanded="false" class="btn btn-link" data-target="#collapse2" data-toggle="collapse" id="week2" type="button">
         Week 2 (June 29 - July 3)
        </button>
       </h2>
      </div>
-     <div aria-labelledby="headingTwo" class="collapse" data-parent="#weekly-info" id="collapse2">
+     <div aria-labelledby="headingTwo" class="collapse show" data-parent="#weekly-info" id="collapse2">
       <div class="card-body">
        <div class="container">
         <div class="row" id="materials2">
+         <div class="col-md-6">
+          <h5>
+           Weekly Materials
+          </h5>
+          <hr/>
+          <span>
+           Discussion 3
+          </span>
+          <ul>
+           <li>
+            <a class="bordered" href="https://docs.google.com/presentation/d/1n7y-803btXVrBztRQTFL5f053_XVfSEKuhIpYihh-LQ/edit?usp=sharing" target="_blank">
+             Slides
+            </a>
+            <a class="bordered" href="https://docs.google.com/forms/d/e/1FAIpQLSc8BhYrna9dnAiAwCYf8oSbMLmbutoU-9dZaW9yY09WQ3GF5g/viewform?usp=sf_link" target="_blank">
+             Attendance
+            </a>
+            <a class="bordered" href="https://cs61a.org/disc/disc02.pdf" target="_blank">
+             Worksheet
+            </a>
+            <a class="bordered btn-link disabled" href="https://cs61a.org/disc/disc02_sol.pdf" target="_blank">
+             Slides
+            </a>
+           </li>
+          </ul>
+          <span>
+           Discussion 4
+          </span>
+          <ul>
+           <li>
+            <a class="bordered btn-link disabled" href="#" target="_blank">
+             Slides
+            </a>
+            <a class="bordered btn-link disabled" href="#" target="_blank">
+             Attendance
+            </a>
+            <a class="bordered btn-link disabled" href="#" target="_blank">
+             Worksheet
+            </a>
+            <a class="bordered btn-link disabled" href="#" target="_blank">
+             Slides
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div class="col-md-6">
+          <h5>
+           Other Resources
+          </h5>
+          <hr/>
+         </div>
         </div>
        </div>
       </div>

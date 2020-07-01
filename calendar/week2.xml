@@ -6,22 +6,22 @@
             Discussion 3
             <item>
                 Slides
-                <url>#</url>
+                <url>https://docs.google.com/presentation/d/1n7y-803btXVrBztRQTFL5f053_XVfSEKuhIpYihh-LQ/edit?usp=sharing</url>
                 <disabled>False</disabled>
             </item>
             <item>
                 Attendance
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/forms/d/e/1FAIpQLSc8BhYrna9dnAiAwCYf8oSbMLmbutoU-9dZaW9yY09WQ3GF5g/viewform?usp=sf_link</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc02.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Slides
-                <url>#</url>
+                <url>https://cs61a.org/disc/disc02_sol.pdf</url>
                 <disabled>True</disabled>
             </item>
         </section>
@@ -51,26 +51,5 @@
     </column>
     <column>
         Other Resources
-        <section>
-            Exam Prep
-            <item>
-                Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-        </section>
-        <section>
-            Notes
-            <item>
-                Spring 2020 Notes
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-        </section>
     </column>
 </announcement>

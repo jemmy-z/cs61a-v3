@@ -1,6 +1,7 @@
 <announcement>
-    <date>Monday, June 29</date>
+    <date>Wednesday, July 1</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
-    <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
-    <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info>
+    <info>This semester, we will be meeting entirely online! Check piazza/emails for Zoom links and more info.</info>
+    <info>Please come to section having watched lecture! The pace of the course during summer is &lt;b&gt;very&lt;/b&gt; fast.</info>
+    <info>There is no discussion Friday.</info>
 </announcement>
