@@ -1,6 +1,8 @@
 <announcement>
-    <date>Monday, July 6</date>
+    <date>Friday, July 10</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
     <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
     <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info>
+    <info>The midterm is next Thursday at 5 PM PST</info>
+    <info>Please reach out if you need any support!</info>
 </announcement>

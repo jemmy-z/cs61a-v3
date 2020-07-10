@@ -3,7 +3,7 @@
     <column>
         Weekly Materials
         <section>
-            Discussion 3
+            Discussion 2
             <item>
                 Slides
                 <url>https://docs.google.com/presentation/d/1n7y-803btXVrBztRQTFL5f053_XVfSEKuhIpYihh-LQ/edit?usp=sharing</url>
@@ -20,13 +20,13 @@
                 <disabled>False</disabled>
             </item>
             <item>
-                Slides
+                Solutions
                 <url>https://cs61a.org/disc/disc02_sol.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
         </section>
         <section>
-            Discussion 4
+            Discussion 3 (canceled)
             <item>
                 Slides
                 <url>#</url>
@@ -43,7 +43,7 @@
                 <disabled>True</disabled>
             </item>
             <item>
-                Slides
+                Solutions
                 <url>#</url>
                 <disabled>True</disabled>
             </item>

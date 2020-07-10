@@ -3,7 +3,7 @@
     <column>
         Weekly Materials
         <section>
-            Discussion 3
+            Discussion 4
             <item>
                 Slides
                 <url>#</url>
@@ -12,38 +12,38 @@
             <item>
                 Attendance
                 <url>#</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
             <item>
                 Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc04.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>
-                Slides
-                <url>#</url>
-                <disabled>True</disabled>
+                Solutions
+                <url>https://cs61a.org/disc/disc04_sol.pdf</url>
+                <disabled>False</disabled>
             </item>
         </section>
         <section>
-            Discussion 4
+            Discussion 5
             <item>
                 Slides
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/presentation/d/1FJ3ZJhdRp3bpYDP9Wg9xqxTYA3H0Cfdz_G_w6XqsoB0/edit?usp=sharing</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Attendance
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/forms/d/e/1FAIpQLSdz28c_lL5RLJXUdZePN1eQQBOU6SMCgMVAnxK51l9Fe-ZhxQ/viewform?usp=sf_link</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc05.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>
-                Slides
+                Solutions
                 <url>#</url>
                 <disabled>True</disabled>
             </item>
@@ -52,24 +52,19 @@
     <column>
         Other Resources
         <section>
-            Exam Prep
+            Recursion Intro (Summer 2020)
             <item>
-                Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>#</url>
-                <disabled>True</disabled>
+                PDF
+                <url>https://drive.google.com/file/d/1FnQ2AESuGy3hLgzxIQGfzkmowpmhjo_i/view?usp=sharing</url>
+                <disabled>False</disabled>
             </item>
         </section>
         <section>
-            Notes
+            Recursion Walkthrough with Examples (Spring 2020)
             <item>
-                Spring 2020 Notes
-                <url>#</url>
-                <disabled>True</disabled>
+                PDF
+                <url>https://drive.google.com/file/d/1tdqz6YDXbpLn4iNhOsYXCMKdQ5uo98hn/view?usp=sharing</url>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>
