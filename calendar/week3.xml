@@ -49,8 +49,8 @@
             </item>
             <item>
                 Solutions
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc05_sol.pdf</url>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>

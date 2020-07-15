@@ -3,30 +3,30 @@
     <column>
         Weekly Materials
         <section>
-            Discussion 3
+            Discussion 6
             <item>
                 Slides
-                <url>#</url>
+                <url>https://docs.google.com/presentation/d/1GmnOlvZznUZBlNwkTOOmIgunWJ_xoRrIB5Fj6o-EjBE/edit?usp=sharing</url>
                 <disabled>False</disabled>
             </item>
             <item>
                 Attendance
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/forms/d/e/1FAIpQLSfSYlVkNSftLtR73mt22ytDndXitGN_uwpiWyt5Jlmx2GZbaw/viewform?usp=sf_link</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc06.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>
-                Slides
-                <url>#</url>
-                <disabled>True</disabled>
+                Solutions
+                <url>https://cs61a.org/disc/disc06_sol.pdf</url>
+                <disabled>False</disabled>
             </item>
         </section>
         <section>
-            Discussion 4
+            Discussion 7 (canceled)
             <item>
                 Slides
                 <url>#</url>
@@ -37,22 +37,6 @@
                 <url>#</url>
                 <disabled>True</disabled>
             </item>
-            <item>
-                Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Slides
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-        </section>
-    </column>
-    <column>
-        Other Resources
-        <section>
-            Exam Prep
             <item>
                 Worksheet
                 <url>#</url>
@@ -64,12 +48,31 @@
                 <disabled>True</disabled>
             </item>
         </section>
+    </column>
+    <column>
+        Other Resources
         <section>
-            Notes
+            Lists Notes
             <item>
-                Spring 2020 Notes
-                <url>#</url>
-                <disabled>True</disabled>
+                PDF
+                <url>https://drive.google.com/file/d/1HqRXRoIxGn8vSXTm7aqfheRQ5rUvqRtk/view?usp=sharing</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section>
+            Trees Notes
+            <item>
+                PDF
+                <url>https://drive.google.com/file/d/15S1cq8utSupCLUC7GW3-1txAqIYJtbr1/view?usp=sharing</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section>
+            Recursion Walkthrough with Examples (Spring 2020)
+            <item>
+                PDF
+                <url>https://drive.google.com/file/d/1tdqz6YDXbpLn4iNhOsYXCMKdQ5uo98hn/view?usp=sharing</url>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>
