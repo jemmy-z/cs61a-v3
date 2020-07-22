@@ -1,6 +1,8 @@
 <announcement>
-    <date>Monday, July 20</date>
+    <date>Wednesday, July 22</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
     <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
-    <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info>
+    <info>Midterm grades have been released on Gradescope.</info>
+        <info>Please submit regrade requests by Friday.</info>
+    <info> Sign up for small group tutoring if you need extra conceptual help and practice.</info>
 </announcement>

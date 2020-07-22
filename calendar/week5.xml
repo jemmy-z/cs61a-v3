@@ -3,30 +3,30 @@
     <column>
         Weekly Materials
         <section>
-            Discussion 3
+            Discussion 8
             <item>
                 Slides
-                <url>#</url>
+                <url>https://docs.google.com/presentation/d/1UdsfdXPKqqVI2YHDaFtXzUZ6JYbQrguEDBrcsdc1vcM/edit?usp=sharing</url>
                 <disabled>False</disabled>
             </item>
             <item>
                 Attendance
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/forms/d/e/1FAIpQLSf06KTm9kIHPvW0y99QFqV2fslBLtCuci-z-rd6Gt_elGyCcg/viewform</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc08.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Slides
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc08_sol.pdf</url>
+                <disabled>False</disabled>
             </item>
         </section>
         <section>
-            Discussion 4
+            Discussion 9
             <item>
                 Slides
                 <url>#</url>
@@ -51,26 +51,5 @@
     </column>
     <column>
         Other Resources
-        <section>
-            Exam Prep
-            <item>
-                Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-        </section>
-        <section>
-            Notes
-            <item>
-                Spring 2020 Notes
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-        </section>
     </column>
 </announcement>
