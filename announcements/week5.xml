@@ -1,8 +1,9 @@
 <announcement>
-    <date>Wednesday, July 22</date>
+    <date>Friday, July 24</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
     <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
-    <info>Midterm grades have been released on Gradescope.</info>
+    <info>Midterm grades have been released on Gradescope. See Piazza for more info.</info>
         <info>Please submit regrade requests by Friday.</info>
-    <info> Sign up for small group tutoring if you need extra conceptual help and practice.</info>
+    <info>Sign up for small group tutoring if you need extra conceptual help and practice. See Piazza for more info.</info>
+    <info>Sign up for post-midterm advising if you would like to meet with staff to talk about studying tips, the midterm, etc. See Piazza for more info.</info> 
 </announcement>
