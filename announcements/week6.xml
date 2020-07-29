@@ -1,6 +1,7 @@
 <announcement>
-    <date>Monday, July 27</date>
+    <date>Wednesday, July 29</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
     <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
-    <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info>
+    <info>The final is in 2 weeks.</info>
+    <info>Please fill out the SQL survey on Piazza.</info>
 </announcement>
