@@ -29,23 +29,23 @@
             Discussion 11
             <item>
                 Slides
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/presentation/d/1aLHWVGpIrF7jatcTFEorSbD09KC5iYpAfqAEGwAe0QM/edit?usp=sharing</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Attendance
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/forms/d/e/1FAIpQLScvmswUISjMUxOJowQamx3JbZFM3go35dEg4rJcII1fJK9xvw/viewform?usp=sf_link</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc11.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Solutions
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc11_sol.pdf</url>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>

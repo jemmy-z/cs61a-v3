@@ -1,7 +1,8 @@
 <announcement>
-    <date>Wednesday, July 29</date>
+    <date>Friday, July 31</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
     <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
     <info>The final is in 2 weeks.</info>
-    <info>Please fill out the SQL survey on Piazza.</info>
+    <info>Please fill out the &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSetQRRtuz-Pm7JeTQLOxtKTqfUmxdUhSU-MMA8IT3X7gh5hRA/viewform"&gt;SQL survey.&lt;/&gt;</info>
+    <info>Please know that it's very difficult to debug over email and I highly recommend posting on Piazza or going to Office Hours. I'll do what I can over email, but no promises.</info>
 </announcement>
