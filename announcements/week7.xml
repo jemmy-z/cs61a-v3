@@ -1,6 +1,8 @@
 <announcement>
-    <date>Monday, August 3</date>
+    <date>Wednesday, August 5</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
     <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
-    <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info>
+    <info>The final is in 2 weeks. Check &lt;a href="https://piazza.com/class/kbesvacrkom2of?cid=2167"&gt;Piazza for more info.&lt;/&gt;</info>
+    <info>If you need an alternate time for the final exam, please &lt;a href="https://piazza.com/class/kbesvacrkom2of?cid=2167"&gt;see this Piazza link.&lt;/&gt;</info>
+    <info>Next Wednesday will be our final discussion.</info>
 </announcement>
