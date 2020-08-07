@@ -29,27 +29,35 @@
             Discussion 13
             <item>
                 Slides
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/presentation/d/1rDRrYiGEurfxL4BW-bZKuJU-7nujTJj9-sVSe5s83Ek/edit?usp=sharing</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Attendance
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://docs.google.com/forms/d/e/1FAIpQLScUGnRp5SYnwXhWUbB6UK_3tC9B7tSt9kiDCJOpvjXWdK-6kA/viewform</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc13.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Solutions
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc13_sol.pdf</url>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>
     <column>
         Other Resources
+        <section>
+            SQL Mutation
+            <item>
+                Summer 2019 Slides
+                <url>https://docs.google.com/presentation/d/1r6UD5T4X6SjIqv-vO7THJ6oOtvoTVGZZQJWaP9SQcFE/edit#slide=id.g5f5c1c9b29_0_310</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
     </column>
 </announcement>
