@@ -3,73 +3,37 @@
     <column>
         Weekly Materials
         <section>
-            Discussion 3
+            Discussion 14
             <item>
                 Slides
                 <url>#</url>
+                <disabled>True</disabled>
+            </item>
+            <item>
+                Attendance
+                <url>https://docs.google.com/forms/d/e/1FAIpQLScqkoRYt1OeZvqAvB9Zeqz7j4RrY18_qhyt0R73QeFsu4GzEg/viewform?usp=sf_link</url>
                 <disabled>False</disabled>
             </item>
             <item>
-                Attendance
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
                 Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc14.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Slides
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-        </section>
-        <section>
-            Discussion 4
-            <item>
-                Slides
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Attendance
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Slides
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc14_sol.pdf</url>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>
     <column>
         Other Resources
         <section>
-            Exam Prep
+            Interesting Past Exam Questions
             <item>
-                Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-        </section>
-        <section>
-            Notes
-            <item>
-                Spring 2020 Notes
-                <url>#</url>
-                <disabled>True</disabled>
+                Links
+                <url>https://docs.google.com/document/d/1qUx0m3g_hqha1ty-S8kSgxmIDR7eIkwEkWkpc6CYPj8/edit?usp=sharing</url>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>
