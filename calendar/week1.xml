@@ -1,43 +1,45 @@
 <announcement>
-    <header>Week 1 (June 22 - June 26)</header>
+    <header>Week 1 (June 22 - June 26): Control, Environment Diagrams</header>
     <column>Weekly Materials
-        <section>Discussion 0
-            <item>Slides
-                <url>https://docs.google.com/presentation/d/1YIkJT-5RYzwvC4feMUYaKILDGJ57i6GWQNBF4BiWuBM/edit?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-            <item>Intro Survey
-                <url>https://docs.google.com/forms/d/e/1FAIpQLSfVnriUycWruOlSa_NZLblQniiHHq4Vb7U09MbLHTN0xV-eFg/viewform?usp=sf_link</url>
-                <disabled>False</disabled>
-            </item>
+        <section>Tutorial #1
             <item>Worksheet
-                <url>https://cs61a.org/disc/disc00.pdf</url>
-                <disabled>False</disabled>
+                <url>#</url>
+                <disabled>True</disabled>
             </item>
             <item>Solutions
-                <url>https://cs61a.org/disc/disc00_sol.pdf</url>
-                <disabled>False</disabled>
+                <url>#</url>
+                <disabled>True</disabled>
             </item>
         </section>
-        <section>Discussion 1
-            <item>Slides
-                <url>https://docs.google.com/presentation/d/1-uEFKmWt2SzNpSzW7Z-SfclWYC-g42hp_3y7k1EBu9Y/edit?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-            <item>Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLSe3MXG1Fz7GnTcs5QF4UA3EU_37QKbSHD5aPk_J2SThuPo1ug/viewform?usp=sf_link</url>
-                <disabled>False</disabled>
-            </item>
+        <section>CSM Section #1
             <item>Worksheet
-                <url>https://cs61a.org/disc/disc01.pdf</url>
+                <url>./worksheets/mentor02.pdf</url>
                 <disabled>False</disabled>
             </item>
             <item>Solutions
-                <url>https://cs61a.org/disc/disc01_sol.pdf</url>
-                <disabled>False</disabled>
+                <url>./worksheets/mentor02_sol.pdf</url>
+                <disabled>True</disabled>
             </item>
         </section>
     </column>
     <column>Other Resources
+        <section> Summer 2020 Discussion Slides
+            <item> Expressions
+                <url>https://docs.google.com/presentation/d/1YIkJT-5RYzwvC4feMUYaKILDGJ57i6GWQNBF4BiWuBM/edit#slide=id.g89705067d7_0_5</url>
+                <disabled>False</disabled>
+            </item>
+            <item> Operators
+                <url>https://docs.google.com/presentation/d/1YIkJT-5RYzwvC4feMUYaKILDGJ57i6GWQNBF4BiWuBM/edit#slide=id.g8974ae1eb4_0_6</url>
+                <disabled>False</disabled>
+            </item>
+            <item> Control
+                <url>https://docs.google.com/presentation/d/1-uEFKmWt2SzNpSzW7Z-SfclWYC-g42hp_3y7k1EBu9Y/edit#slide=id.g898317f8a0_1_15</url>
+                <disabled>False</disabled>
+            </item>
+            <item> Environments
+                <url>https://docs.google.com/presentation/d/1-uEFKmWt2SzNpSzW7Z-SfclWYC-g42hp_3y7k1EBu9Y/edit#slide=id.g898317f8a0_1_10</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
     </column>
 </announcement>

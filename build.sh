@@ -11,9 +11,9 @@ declare -a WEEKS
 declare -a ANNOUNCEMENT_FILES
 declare -a NAVBAR_FILES
 
-SEMESTER="Summer 2020"
-WEEKS=(1 2 3 4 5 6 7 8)
-SURVEY="https://forms.gle/thhtwLmhEGgTbYkC7"
+SEMESTER="Fall 2020"
+WEEKS=(1)
+SURVEY="https://forms.gle/R6o4ch6bFjiuScAaA"
 VERSION="v1.0.1"
 
 HEADER_FILES=("index.html" "about.html")

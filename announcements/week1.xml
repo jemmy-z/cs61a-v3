@@ -1,9 +1,7 @@
 <announcement>
-    <date>Wednesday, June 22</date>
+    <date>Monday, August 31</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
-    <info>This semester, we will be meeting entirely online! Check piazza/emails for Zoom links and more info.</info>
-    <info>Attendance will be taken starting Friday 6/26.</info>
-    <info>Please come to section having watched lecture! The pace of the course during summer is &lt;b&gt;very&lt;/b&gt; fast.</info>
-    <info>Please fill out the &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfVnriUycWruOlSa_NZLblQniiHHq4Vb7U09MbLHTN0xV-eFg/viewform?usp=sf_link" target="_blank"&gt;intro survey here&lt;/a&gt;.</info>
+    <info>&lt;b&gt;[Tutorial]&lt;/b&gt;Tutorial attendance is mandatory. Please arrive to tutorials on time. If you are more than 3 minutes late, you will be marked absent.</info>
+    <info>&lt;b&gt;[Tutorial]&lt;/b&gt;Please go to discussion orientation before coming to tutorials. We do not have time to both review the material and talk about problem solving methods in 25 minutes.</info>
     <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info>
 </announcement>
