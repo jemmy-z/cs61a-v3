@@ -3,8 +3,8 @@
     <column>Weekly Materials
         <section>Tutorial #1
             <item>Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc01.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>Solutions
                 <url>#</url>
@@ -18,7 +18,7 @@
             </item>
             <item>Solutions
                 <url>./worksheets/mentor02_sol.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>
