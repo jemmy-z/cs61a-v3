@@ -1,55 +1,45 @@
 <announcement>
-    <header>Week 2 (June 29 - July 3)</header>
-    <column>
-        Weekly Materials
-        <section>
-            Discussion 2
-            <item>
-                Slides
-                <url>https://docs.google.com/presentation/d/1n7y-803btXVrBztRQTFL5f053_XVfSEKuhIpYihh-LQ/edit?usp=sharing</url>
-                <disabled>False</disabled>
+    <header>Week 3 (September 7 - September 11):  Environments, Lambda Expressions, Higher Order Functions</header>
+    <column>Weekly Materials
+        <section>Tutorial #2
+            <item>Worksheet
+                <url>https://cs61a.org/disc/disc03.pdf</url>
+                <disabled>True</disabled>
             </item>
-            <item>
-                Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLSc8BhYrna9dnAiAwCYf8oSbMLmbutoU-9dZaW9yY09WQ3GF5g/viewform?usp=sf_link</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Worksheet
-                <url>https://cs61a.org/disc/disc02.pdf</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>https://cs61a.org/disc/disc02_sol.pdf</url>
-                <disabled>False</disabled>
+            <item>Solutions
+                <url>https://cs61a.org/disc/disc03_sol.pdf</url>
+                <disabled>True</disabled>
             </item>
         </section>
-        <section>
-            Discussion 3 (canceled)
-            <item>
-                Slides
-                <url>#</url>
-                <disabled>True</disabled>
+        <section>CSM Section #3
+            <item>Worksheet
+                <url>./worksheets/mentor03.pdf</url>
+                <disabled>False</disabled>
             </item>
-            <item>
-                Attendance
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>#</url>
+            <item>Solutions
+                <url>./worksheets/mentor03_sol.pdf</url>
                 <disabled>True</disabled>
             </item>
         </section>
     </column>
-    <column>
-        Other Resources
+    <column>Other Resources
+        <section> Summer 2020 Discussion Slides
+            <item> Environments
+                <url>https://docs.google.com/presentation/d/1-uEFKmWt2SzNpSzW7Z-SfclWYC-g42hp_3y7k1EBu9Y/edit#slide=id.g898317f8a0_1_10</url>
+                <disabled>False</disabled>
+            </item>
+            <item> Lambdas
+                <url>https://docs.google.com/presentation/d/1n7y-803btXVrBztRQTFL5f053_XVfSEKuhIpYihh-LQ/edit#slide=id.g82203b8675_0_0</url>
+                <disabled>False</disabled>
+            </item>
+            <item> HoFs
+                <url>https://docs.google.com/presentation/d/1n7y-803btXVrBztRQTFL5f053_XVfSEKuhIpYihh-LQ/edit#slide=id.g82203b8675_0_49</url>
+                <disabled>False</disabled>
+            </item>
+            <item> Self Reference
+                <url>https://docs.google.com/presentation/d/1n7y-803btXVrBztRQTFL5f053_XVfSEKuhIpYihh-LQ/edit#slide=id.g82203b8675_0_69</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
     </column>
 </announcement>

@@ -1,5 +1,5 @@
 <announcement>
-    <header>Week 1 (June 22 - June 26): Control, Environment Diagrams</header>
+    <header>Week 2 (August 31 - September 4): Control, Functions</header>
     <column>Weekly Materials
         <section>Tutorial #1
             <item>Worksheet
@@ -7,11 +7,11 @@
                 <disabled>False</disabled>
             </item>
             <item>Solutions
-                <url>#</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc01_sol.pdf</url>
+                <disabled>False</disabled>
             </item>
         </section>
-        <section>CSM Section #1
+        <section>CSM Section #2
             <item>Worksheet
                 <url>./worksheets/mentor02.pdf</url>
                 <disabled>False</disabled>
@@ -34,10 +34,6 @@
             </item>
             <item> Control
                 <url>https://docs.google.com/presentation/d/1-uEFKmWt2SzNpSzW7Z-SfclWYC-g42hp_3y7k1EBu9Y/edit#slide=id.g898317f8a0_1_15</url>
-                <disabled>False</disabled>
-            </item>
-            <item> Environments
-                <url>https://docs.google.com/presentation/d/1-uEFKmWt2SzNpSzW7Z-SfclWYC-g42hp_3y7k1EBu9Y/edit#slide=id.g898317f8a0_1_10</url>
                 <disabled>False</disabled>
             </item>
         </section>

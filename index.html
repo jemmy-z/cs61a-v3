@@ -50,7 +50,7 @@
       </div>
       <div class="col-8">
        <div class="carousel-inner" id="carousel-announcements">
-        <div class="carousel-item p-4 active" id="announcement-0">
+        <div class="carousel-item p-4" id="announcement-0">
          <h1>
           Monday, August 31
          </h1>
@@ -79,6 +79,41 @@
           </li>
          </ul>
         </div>
+        <div class="carousel-item p-4 active" id="announcement-1">
+         <h1>
+          Tuesday, September 8
+         </h1>
+         <ul class="announcement-list">
+          <li class="announcement-item">
+           Welcome to CS 61A Fall 2020!
+          </li>
+          <li class="announcement-item">
+           <b>
+            [Tutorial]
+           </b>
+           Tutorial attendance is mandatory. Please arrive to tutorials on time. If you are more than 3 minutes late, you will be marked absent.
+          </li>
+          <li class="announcement-item">
+           <b>
+            [Tutorial]
+           </b>
+           Please go to discussion orientation before coming to tutorials. We do not have time to both review the material and talk about problem solving methods in 25 minutes.
+          </li>
+          <li class="announcement-item">
+           <b>
+            [CSM]
+           </b>
+           CSM section sign ups open on Sunday 9/13 at 6 PM PST.
+          </li>
+          <li class="announcement-item">
+           You can find out more about me
+           <a href="about.html">
+            here
+           </a>
+           .
+          </li>
+         </ul>
+        </div>
        </div>
       </div>
       <div class="col-2">
@@ -92,7 +127,9 @@
       </div>
      </div>
      <ol class="carousel-indicators" id="carousel-indicators">
-      <li class="active" data-slide-to="0" data-target="#Announcements">
+      <li data-slide-to="0" data-target="#Announcements">
+      </li>
+      <li class="active" data-slide-to="1" data-target="#Announcements">
       </li>
      </ol>
     </div>
@@ -109,12 +146,12 @@
     <div class="card">
      <div class="card-header" id="headingOne">
       <h2 class="mb-0">
-       <button aria-controls="collapse1" aria-expanded="true" class="btn btn-link" data-target="#collapse1" data-toggle="collapse" id="week1" type="button">
-        Week 1 (June 22 - June 26): Control, Environment Diagrams
+       <button aria-controls="collapse1" aria-expanded="true" class="btn btn-link collapsed" data-target="#collapse1" data-toggle="collapse" id="week1" type="button">
+        Week 2 (August 31 - September 4): Control, Functions
        </button>
       </h2>
      </div>
-     <div aria-labelledby="headingOne" class="collapse show" data-parent="#weekly-info" id="collapse1">
+     <div aria-labelledby="headingOne" class="collapse" data-parent="#weekly-info" id="collapse1">
       <div class="card-body">
        <div class="container">
         <div class="row" id="materials1">
@@ -131,13 +168,13 @@
             <a class="bordered" href="https://cs61a.org/disc/disc01.pdf" target="_blank">
              Worksheet
             </a>
-            <a class="bordered btn-link disabled" href="#" target="_blank">
+            <a class="bordered" href="https://cs61a.org/disc/disc01_sol.pdf" target="_blank">
              Solutions
             </a>
            </li>
           </ul>
           <span>
-           CSM Section #1
+           CSM Section #2
           </span>
           <ul>
            <li>
@@ -169,9 +206,6 @@
             <a class="bordered" href="https://docs.google.com/presentation/d/1-uEFKmWt2SzNpSzW7Z-SfclWYC-g42hp_3y7k1EBu9Y/edit#slide=id.g898317f8a0_1_15" target="_blank">
              Control
             </a>
-            <a class="bordered" href="https://docs.google.com/presentation/d/1-uEFKmWt2SzNpSzW7Z-SfclWYC-g42hp_3y7k1EBu9Y/edit#slide=id.g898317f8a0_1_10" target="_blank">
-             Environments
-            </a>
            </li>
           </ul>
          </div>
@@ -183,15 +217,72 @@
     <div class="card">
      <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
-       <button aria-controls="collapse2" aria-expanded="false" class="btn btn-link collapsed disabled" data-target="#collapse2" data-toggle="collapse" id="week2" type="button">
-        Week 2 (June 29 - July 3)
+       <button aria-controls="collapse2" aria-expanded="false" class="btn btn-link" data-target="#collapse2" data-toggle="collapse" id="week2" type="button">
+        Week 3 (September 7 - September 11):  Environments, Lambda Expressions, Higher Order Functions
        </button>
       </h2>
      </div>
-     <div aria-labelledby="headingTwo" class="collapse" data-parent="#weekly-info" id="collapse2">
+     <div aria-labelledby="headingTwo" class="collapse show" data-parent="#weekly-info" id="collapse2">
       <div class="card-body">
        <div class="container">
         <div class="row" id="materials2">
+         <div class="col-md-6">
+          <h5>
+           Weekly Materials
+          </h5>
+          <hr/>
+          <span>
+           Tutorial #2
+          </span>
+          <ul>
+           <li>
+            <a class="bordered btn-link disabled" href="https://cs61a.org/disc/disc03.pdf" target="_blank">
+             Worksheet
+            </a>
+            <a class="bordered btn-link disabled" href="https://cs61a.org/disc/disc03_sol.pdf" target="_blank">
+             Solutions
+            </a>
+           </li>
+          </ul>
+          <span>
+           CSM Section #3
+          </span>
+          <ul>
+           <li>
+            <a class="bordered" href="./worksheets/mentor03.pdf" target="_blank">
+             Worksheet
+            </a>
+            <a class="bordered btn-link disabled" href="./worksheets/mentor03_sol.pdf" target="_blank">
+             Solutions
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div class="col-md-6">
+          <h5>
+           Other Resources
+          </h5>
+          <hr/>
+          <span>
+           Summer 2020 Discussion Slides
+          </span>
+          <ul>
+           <li>
+            <a class="bordered" href="https://docs.google.com/presentation/d/1-uEFKmWt2SzNpSzW7Z-SfclWYC-g42hp_3y7k1EBu9Y/edit#slide=id.g898317f8a0_1_10" target="_blank">
+             Environments
+            </a>
+            <a class="bordered" href="https://docs.google.com/presentation/d/1n7y-803btXVrBztRQTFL5f053_XVfSEKuhIpYihh-LQ/edit#slide=id.g82203b8675_0_0" target="_blank">
+             Lambdas
+            </a>
+            <a class="bordered" href="https://docs.google.com/presentation/d/1n7y-803btXVrBztRQTFL5f053_XVfSEKuhIpYihh-LQ/edit#slide=id.g82203b8675_0_49" target="_blank">
+             HoFs
+            </a>
+            <a class="bordered" href="https://docs.google.com/presentation/d/1n7y-803btXVrBztRQTFL5f053_XVfSEKuhIpYihh-LQ/edit#slide=id.g82203b8675_0_69" target="_blank">
+             Self Reference
+            </a>
+           </li>
+          </ul>
+         </div>
         </div>
        </div>
       </div>
