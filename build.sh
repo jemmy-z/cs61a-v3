@@ -44,3 +44,6 @@ grep -rl "{% VERSION %}" temp/ | xargs sed -i -e "s,{% VERSION %},${VERSION},g"
 echo "Finished updating version"
 cp temp/* .
 echo "Finished publishing all files"
+
+rm about.html-*
+rm index.html-*
