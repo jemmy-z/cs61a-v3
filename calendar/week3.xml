@@ -1,76 +1,22 @@
 <announcement>
-    <header>Week 3 (July 6 - July 10)</header>
+    <header>Week 4 (September 14  - September 18):  Recursion, Tree Recursion</header>
     <column>
         Weekly Materials
         <section>
-            Discussion 4
-            <item>
-                Slides
-                <url>#</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Attendance
-                <url>#</url>
-                <disabled>False</disabled>
-            </item>
+            Tutorial #3
             <item>
                 Worksheet
-                <url>https://cs61a.org/disc/disc04.pdf</url>
+                <url>https://cs61a.org/disc/disc03.pdf</url>
                 <disabled>False</disabled>
             </item>
             <item>
                 Solutions
-                <url>https://cs61a.org/disc/disc04_sol.pdf</url>
-                <disabled>False</disabled>
-            </item>
-        </section>
-        <section>
-            Discussion 5
-            <item>
-                Slides
-                <url>https://docs.google.com/presentation/d/1FJ3ZJhdRp3bpYDP9Wg9xqxTYA3H0Cfdz_G_w6XqsoB0/edit?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLSdz28c_lL5RLJXUdZePN1eQQBOU6SMCgMVAnxK51l9Fe-ZhxQ/viewform?usp=sf_link</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Worksheet
-                <url>https://cs61a.org/disc/disc05.pdf</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Code
-                <url>https://gist.github.com/jemmy-z/6c9510815859daf817a9f805a04e0ecb</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>https://cs61a.org/disc/disc05_sol.pdf</url>
-                <disabled>False</disabled>
+                <url>https://cs61a.org/disc/disc03.pdf</url>
+                <disabled>True</disabled>
             </item>
         </section>
     </column>
     <column>
         Other Resources
-        <section>
-            Recursion Intro (Summer 2020)
-            <item>
-                PDF
-                <url>https://drive.google.com/file/d/1FnQ2AESuGy3hLgzxIQGfzkmowpmhjo_i/view?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-        </section>
-        <section>
-            Recursion Walkthrough with Examples (Spring 2020)
-            <item>
-                PDF
-                <url>https://drive.google.com/file/d/1tdqz6YDXbpLn4iNhOsYXCMKdQ5uo98hn/view?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-        </section>
     </column>
 </announcement>

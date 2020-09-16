@@ -1,8 +1,7 @@
 <announcement>
-    <date>Friday, July 10</date>
+    <date>Wednesday, September 16</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
-    <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
-    <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info>
-    <info>The midterm is next Thursday at 5 PM PST</info>
-    <info>Please reach out if you need any support!</info>
+    <info>&lt;b&gt;[Tutorial]&lt;/b&gt;Tutorial attendance is mandatory. Please arrive to tutorials on time. If you are more than 3 minutes late, you will be marked absent.</info>
+    <info>&lt;b&gt;[Tutorial]&lt;/b&gt;Midterm 1 grades are released, please check Piazza for more info.</info>
+    <info>&lt;b&gt;[CSM]&lt;/b&gt;CSM sections start next week.</info>
 </announcement>
