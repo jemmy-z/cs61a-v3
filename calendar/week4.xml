@@ -1,72 +1,33 @@
 <announcement>
-    <header>Week 4 (July 13 - July 17)</header>
+    <header>Week 5 (September 21 - September 25)</header>
     <column>
         Weekly Materials
         <section>
-            Discussion 6
-            <item>
-                Slides
-                <url>https://docs.google.com/presentation/d/1GmnOlvZznUZBlNwkTOOmIgunWJ_xoRrIB5Fj6o-EjBE/edit?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLSfSYlVkNSftLtR73mt22ytDndXitGN_uwpiWyt5Jlmx2GZbaw/viewform?usp=sf_link</url>
-                <disabled>False</disabled>
-            </item>
+            Tutorial #4
             <item>
                 Worksheet
-                <url>https://cs61a.org/disc/disc06.pdf</url>
-                <disabled>False</disabled>
+                <url>https://cs61a.org/disc/disc04.pdf</url>
+                <disabled>True</disabled>
             </item>
             <item>
                 Solutions
-                <url>https://cs61a.org/disc/disc06_sol.pdf</url>
-                <disabled>False</disabled>
+                <url>https://cs61a.org/disc/disc04_sol.pdf</url>
+                <disabled>True</disabled>
             </item>
         </section>
-        <section>
-            Discussion 7 (canceled)
-            <item>
-                Slides
-                <url>#</url>
-                <disabled>True</disabled>
+        <section>CSM Section Week 5
+            <item>Worksheet
+                <url>./worksheets/mentor05.pdf</url>
+                <disabled>False</disabled>
             </item>
-            <item>
-                Attendance
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Worksheet
-                <url>#</url>
-                <disabled>True</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>#</url>
+            <item>Solutions
+                <url>./worksheets/mentor05_sol.pdf</url>
                 <disabled>True</disabled>
             </item>
         </section>
     </column>
     <column>
         Other Resources
-        <section>
-            Lists Notes
-            <item>
-                PDF
-                <url>https://drive.google.com/file/d/1HqRXRoIxGn8vSXTm7aqfheRQ5rUvqRtk/view?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-        </section>
-        <section>
-            Trees Notes
-            <item>
-                PDF
-                <url>https://drive.google.com/file/d/15S1cq8utSupCLUC7GW3-1txAqIYJtbr1/view?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-        </section>
         <section>
             Recursion Walkthrough with Examples (Spring 2020)
             <item>

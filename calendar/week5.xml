@@ -51,5 +51,21 @@
     </column>
     <column>
         Other Resources
+        <section>
+            Lists Notes
+            <item>
+                PDF
+                <url>https://drive.google.com/file/d/1HqRXRoIxGn8vSXTm7aqfheRQ5rUvqRtk/view?usp=sharing</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section>
+            Trees Notes
+            <item>
+                PDF
+                <url>https://drive.google.com/file/d/15S1cq8utSupCLUC7GW3-1txAqIYJtbr1/view?usp=sharing</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
     </column>
 </announcement>
