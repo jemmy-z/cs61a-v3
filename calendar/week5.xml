@@ -22,7 +22,7 @@
             </item>
             <item>Solutions
                 <url>./worksheets/mentor06_sol.pdf</url>
-                <disabled>False</disabled>
+                <disabled>True</disabled>
             </item>
         </section>
     </column>
