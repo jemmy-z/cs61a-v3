@@ -1,9 +1,9 @@
 <announcement>
-    <date>Friday, July 24</date>
+    <date>Tuesday, September 29</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
-    <info>This semester, we will be meeting entirely online! Check your emails for Zoom links and more info.</info>
-    <info>Midterm grades have been released on Gradescope. See Piazza for more info.</info>
-        <info>Please submit regrade requests by Friday.</info>
-    <info>Sign up for small group tutoring if you need extra conceptual help and practice. See Piazza for more info.</info>
-    <info>Sign up for post-midterm advising if you would like to meet with staff to talk about studying tips, the midterm, etc. See Piazza for more info.</info> 
+    <info>&lt;b&gt;[Tutorial]&lt;/b&gt;Tutorial attendance is mandatory. Please arrive to tutorials on time. If you are more than 3 minutes late, you will be marked absent.</info>
+    <info>&lt;b&gt;[Tutorial]&lt;/b&gt;Please go to discussion orientation before coming to tutorials. We do not have time to both review the material and talk about problem solving methods in 25 minutes.</info>
+    <info>&lt;b&gt;[CSM]&lt;/b&gt;Welcome to CSM 61A!</info>
+    <info>&lt;b&gt;[CSM]&lt;/b&gt;To be excused from section, you must email both me and mentors@berkeley.edu 24 hours prior to section.</info>
+    <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info> 
 </announcement>

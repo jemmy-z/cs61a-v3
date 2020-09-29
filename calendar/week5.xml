@@ -1,50 +1,27 @@
 <announcement>
-    <header>Week 5 (July 20 - July 24)</header>
+    <header>Week 6 (September 29 - October 2)</header>
     <column>
         Weekly Materials
         <section>
-            Discussion 8
-            <item>
-                Slides
-                <url>https://docs.google.com/presentation/d/1UdsfdXPKqqVI2YHDaFtXzUZ6JYbQrguEDBrcsdc1vcM/edit?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLSf06KTm9kIHPvW0y99QFqV2fslBLtCuci-z-rd6Gt_elGyCcg/viewform</url>
-                <disabled>False</disabled>
-            </item>
+            Tutorial #5
             <item>
                 Worksheet
-                <url>https://cs61a.org/disc/disc08.pdf</url>
-                <disabled>False</disabled>
+                <url>https://cs61a.org/disc/disc05.pdf</url>
+                <disabled>True</disabled>
             </item>
             <item>
                 Solutions
-                <url>https://cs61a.org/disc/disc08_sol.pdf</url>
-                <disabled>False</disabled>
+                <url>https://cs61a.org/disc/disc05_sol.pdf</url>
+                <disabled>True</disabled>
             </item>
         </section>
-        <section>
-            Discussion 9
-            <item>
-                Slides
-                <url>https://docs.google.com/presentation/d/1jStiFz1HPVmaq9vcOIA04YTXM2mG6bn2cVgPrM4PuuE/edit?usp=sharing</url>
+        <section>CSM Section Week 6
+            <item>Worksheet
+                <url>./worksheets/mentor06.pdf</url>
                 <disabled>False</disabled>
             </item>
-            <item>
-                Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLSeKmnj_Af4Ec91aQTpoHpHc68txzfwpp8n7bogvND2V3XhvfQ/viewform?usp=sf_link</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Worksheet
-                <url>https://cs61a.org/disc/disc09.pdf</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>https://cs61a.org/disc/disc09_sol.pdf</url>
+            <item>Solutions
+                <url>./worksheets/mentor06_sol.pdf</url>
                 <disabled>False</disabled>
             </item>
         </section>
@@ -64,6 +41,12 @@
             <item>
                 PDF
                 <url>https://drive.google.com/file/d/15S1cq8utSupCLUC7GW3-1txAqIYJtbr1/view?usp=sharing</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section> Summer 2020 Discussion Slides
+            <item> Trees
+                <url>https://docs.google.com/presentation/d/1FJ3ZJhdRp3bpYDP9Wg9xqxTYA3H0Cfdz_G_w6XqsoB0/edit#slide=id.g82203b8675_0_0</url>
                 <disabled>False</disabled>
             </item>
         </section>
