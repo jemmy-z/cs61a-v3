@@ -1,5 +1,5 @@
 <announcement>
-    <header>Week 6 (September 29 - October 2)</header>
+    <header>Week 6 (September 29 - October 2): Lists, Trees</header>
     <column>
         Weekly Materials
         <section>
@@ -7,12 +7,12 @@
             <item>
                 Worksheet
                 <url>https://cs61a.org/disc/disc05.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
             <item>
                 Solutions
                 <url>https://cs61a.org/disc/disc05_sol.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
         </section>
         <section>CSM Section Week 6
@@ -22,7 +22,7 @@
             </item>
             <item>Solutions
                 <url>./worksheets/mentor06_sol.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>

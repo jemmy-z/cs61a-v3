@@ -1,55 +1,54 @@
 <announcement>
-    <header>Week 6 (July 27 - July 31)</header>
+    <header>Week 7 (October 5 - October 9): Binary Numbers, Mutation</header>
     <column>
         Weekly Materials
         <section>
-            Discussion 10
-            <item>
-                Slides
-                <url>https://docs.google.com/presentation/d/1P7wjDagM1ArblTajz29F_VhImVXX4nBiaFDuMOaGZWo/edit?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLSflpvH6w2QirwTCpmg0F148ucaUEFEiByXcvfnaETz46G2gPw/viewform?usp=sf_link</url>
-                <disabled>False</disabled>
-            </item>
+            Tutorial #5
             <item>
                 Worksheet
-                <url>https://cs61a.org/disc/disc10.pdf</url>
-                <disabled>False</disabled>
+                <url>https://cs61a.org/disc/disc06.pdf</url>
+                <disabled>True</disabled>
             </item>
             <item>
                 Solutions
-                <url>https://cs61a.org/disc/disc10_sol.pdf</url>
-                <disabled>False</disabled>
+                <url>https://cs61a.org/disc/disc06_sol.pdf</url>
+                <disabled>True</disabled>
             </item>
         </section>
-        <section>
-            Discussion 11
-            <item>
-                Slides
-                <url>https://docs.google.com/presentation/d/1aLHWVGpIrF7jatcTFEorSbD09KC5iYpAfqAEGwAe0QM/edit?usp=sharing</url>
+        <section>CSM Section Week 6
+            <item>Worksheet
+                <url>./worksheets/mentor07.pdf</url>
                 <disabled>False</disabled>
             </item>
-            <item>
-                Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLScvmswUISjMUxOJowQamx3JbZFM3go35dEg4rJcII1fJK9xvw/viewform?usp=sf_link</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Worksheet
-                <url>https://cs61a.org/disc/disc11.pdf</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>https://cs61a.org/disc/disc11_sol.pdf</url>
-                <disabled>False</disabled>
+            <item>Solutions
+                <url>./worksheets/mentor07_sol.pdf</url>
+                <disabled>True</disabled>
             </item>
         </section>
     </column>
     <column>
         Other Resources
+        <section>
+            Lists Notes
+            <item>
+                PDF
+                <url>https://drive.google.com/file/d/1HqRXRoIxGn8vSXTm7aqfheRQ5rUvqRtk/view?usp=sharing</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section>
+            Trees Notes
+            <item>
+                PDF
+                <url>https://drive.google.com/file/d/15S1cq8utSupCLUC7GW3-1txAqIYJtbr1/view?usp=sharing</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section> Summer 2020 Discussion Slides
+            <item> List Mutatation
+                <url>https://docs.google.com/presentation/d/1FJ3ZJhdRp3bpYDP9Wg9xqxTYA3H0Cfdz_G_w6XqsoB0/edit#slide=id.g8d5f66495d_0_52</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
     </column>
 </announcement>
