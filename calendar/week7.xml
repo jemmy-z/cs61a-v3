@@ -1,62 +1,55 @@
 <announcement>
-    <header>Week 7 (August 3 - August 10)</header>
+    <header>Week 8 (October 12 - October 16): Object Orientated Programming</header>
     <column>
         Weekly Materials
         <section>
-            Discussion 12
-            <item>
-                Slides
-                <url>https://docs.google.com/presentation/d/18LUg58phRF8Xx5kTGChA0GsK7eiaIjls_HLfEcSnlqk/edit?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLSdbYwhZdygtXr7sY8z62ro12kzSbrdflXPGYu-t8qcdRK5DBg/viewform?usp=sf_link</url>
-                <disabled>False</disabled>
-            </item>
+            Tutorial #6
             <item>
                 Worksheet
-                <url>https://cs61a.org/disc/disc12.pdf</url>
-                <disabled>False</disabled>
+                <url>https://cs61a.org/disc/disc06.pdf</url>
+                <disabled>True</disabled>
             </item>
             <item>
                 Solutions
-                <url>https://cs61a.org/disc/disc12_sol.pdf</url>
-                <disabled>False</disabled>
+                <url>https://cs61a.org/disc/disc06_sol.pdf</url>
+                <disabled>True</disabled>
             </item>
         </section>
-        <section>
-            Discussion 13
-            <item>
-                Slides
-                <url>https://docs.google.com/presentation/d/1rDRrYiGEurfxL4BW-bZKuJU-7nujTJj9-sVSe5s83Ek/edit?usp=sharing</url>
+        <section>CSM Section Week 8
+            <item>Worksheet
+                <url>./worksheets/mentor08.pdf</url>
                 <disabled>False</disabled>
             </item>
-            <item>
-                Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLScUGnRp5SYnwXhWUbB6UK_3tC9B7tSt9kiDCJOpvjXWdK-6kA/viewform</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Worksheet
-                <url>https://cs61a.org/disc/disc13.pdf</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Solutions
-                <url>https://cs61a.org/disc/disc13_sol.pdf</url>
-                <disabled>False</disabled>
+            <item>Solutions
+                <url>./worksheets/mentor08_sol.pdf</url>
+                <disabled>True</disabled>
             </item>
         </section>
     </column>
     <column>
         Other Resources
-        <section>
-            SQL Mutation
-            <item>
-                Summer 2019 Slides
-                <url>https://docs.google.com/presentation/d/1r6UD5T4X6SjIqv-vO7THJ6oOtvoTVGZZQJWaP9SQcFE/edit#slide=id.g5f5c1c9b29_0_310</url>
+        <section> Summer 2020 Discussion Slides
+            <item> Nonlocal
+                <url>https://docs.google.com/presentation/d/1GmnOlvZznUZBlNwkTOOmIgunWJ_xoRrIB5Fj6o-EjBE/edit#slide=id.g8d5f66495d_0_1</url>
                 <disabled>False</disabled>
+            </item>
+            <item> Iterators
+                <url>https://docs.google.com/presentation/d/1UdsfdXPKqqVI2YHDaFtXzUZ6JYbQrguEDBrcsdc1vcM/edit#slide=id.g8d5f66495d_0_1</url>
+                <disabled>False</disabled>
+            </item>
+            <item> Generators
+                <url>https://docs.google.com/presentation/d/1UdsfdXPKqqVI2YHDaFtXzUZ6JYbQrguEDBrcsdc1vcM/edit#slide=id.g8e625f3938_0_143</url>
+                <disabled>False</disabled>
+            </item>
+            <item> OOP
+                <url>https://docs.google.com/presentation/d/1UdsfdXPKqqVI2YHDaFtXzUZ6JYbQrguEDBrcsdc1vcM/edit#slide=id.g8e625f3938_0_184</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section> CSM Section Week 8
+            <item> Notes
+                <url>/</url>
+                <disabled>True</disabled>
             </item>
         </section>
     </column>
