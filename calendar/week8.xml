@@ -1,39 +1,51 @@
 <announcement>
-    <header>Week 8 (August 10 - August 14)</header>
+    <header>Week 9 (October 19 - October 23): Linked Lists, Mutable Trees</header>
     <column>
         Weekly Materials
         <section>
-            Discussion 14
+            Tutorial #7
             <item>
-                Slides
-                <url>#</url>
+                Worksheet
+                <url>https://cs61a.org/disc/disc07.pdf</url>
                 <disabled>True</disabled>
             </item>
             <item>
-                Attendance
-                <url>https://docs.google.com/forms/d/e/1FAIpQLScqkoRYt1OeZvqAvB9Zeqz7j4RrY18_qhyt0R73QeFsu4GzEg/viewform?usp=sf_link</url>
+                Solutions
+                <url>https://cs61a.org/disc/disc07_sol.pdf</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+        <section>CSM Section Week 9
+            <item>Worksheet
+                <url>./worksheets/mentor09.pdf</url>
                 <disabled>False</disabled>
             </item>
-            <item>
-                Worksheet
-                <url>https://cs61a.org/disc/disc14.pdf</url>
-                <disabled>False</disabled>
-            </item>
-            <item>
-                Slides
-                <url>https://cs61a.org/disc/disc14_sol.pdf</url>
-                <disabled>False</disabled>
+            <item>Solutions
+                <url>./worksheets/mentor09_sol.pdf</url>
+                <disabled>True</disabled>
             </item>
         </section>
     </column>
     <column>
         Other Resources
-        <section>
-            Interesting Past Exam Questions
-            <item>
-                Links
-                <url>https://docs.google.com/document/d/1qUx0m3g_hqha1ty-S8kSgxmIDR7eIkwEkWkpc6CYPj8/edit?usp=sharing</url>
+        <section> Summer 2020 Discussion Slides
+            <item> OOP
+                <url>https://docs.google.com/presentation/d/1UdsfdXPKqqVI2YHDaFtXzUZ6JYbQrguEDBrcsdc1vcM/edit#slide=id.g8e625f3938_0_184</url>
                 <disabled>False</disabled>
+            </item>
+            <item> Linked Lists
+                <url>https://docs.google.com/presentation/d/1jStiFz1HPVmaq9vcOIA04YTXM2mG6bn2cVgPrM4PuuE/edit#slide=id.g8d5f66495d_0_1</url>
+                <disabled>False</disabled>
+            </item>
+            <item> Mutable Trees
+                <url>https://docs.google.com/presentation/d/1jStiFz1HPVmaq9vcOIA04YTXM2mG6bn2cVgPrM4PuuE/edit#slide=id.g8cbd11080f_0_74</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section> CSM Section Week 9
+            <item> Notes
+                <url>/</url>
+                <disabled>True</disabled>
             </item>
         </section>
     </column>

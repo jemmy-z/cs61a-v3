@@ -7,12 +7,12 @@
             <item>
                 Worksheet
                 <url>https://cs61a.org/disc/disc06.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
             <item>
                 Solutions
                 <url>https://cs61a.org/disc/disc06_sol.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
         </section>
         <section>CSM Section Week 8
@@ -22,7 +22,7 @@
             </item>
             <item>Solutions
                 <url>./worksheets/mentor08_sol.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>
