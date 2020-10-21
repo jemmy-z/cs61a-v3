@@ -7,7 +7,7 @@
             <item>
                 Worksheet
                 <url>https://cs61a.org/disc/disc08.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
             <item>
                 Solutions
@@ -22,7 +22,7 @@
             </item>
             <item>Solutions
                 <url>./worksheets/mentor09_sol.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>
