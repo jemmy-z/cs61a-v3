@@ -1,0 +1,52 @@
+<announcement>
+    <header>Week 9 (October 19 - October 23): Linked Lists, Mutable Trees</header>
+    <column>
+        Weekly Materials
+        <section>
+            Tutorial #7
+            <item>
+                Worksheet
+                <url>https://cs61a.org/disc/disc08.pdf</url>
+                <disabled>False</disabled>
+            </item>
+            <item>
+                Solutions
+                <url>https://cs61a.org/disc/disc08_sol.pdf</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+        <section>CSM Section Week 9
+            <item>Worksheet
+                <url>./worksheets/mentor09.pdf</url>
+                <disabled>False</disabled>
+            </item>
+            <item>Solutions
+                <url>./worksheets/mentor09_sol.pdf</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+    </column>
+    <column>
+        Other Resources
+        <section> Summer 2020 Discussion Slides
+            <item> OOP
+                <url>https://docs.google.com/presentation/d/1UdsfdXPKqqVI2YHDaFtXzUZ6JYbQrguEDBrcsdc1vcM/edit#slide=id.g8e625f3938_0_184</url>
+                <disabled>False</disabled>
+            </item>
+            <item> Linked Lists
+                <url>https://docs.google.com/presentation/d/1jStiFz1HPVmaq9vcOIA04YTXM2mG6bn2cVgPrM4PuuE/edit#slide=id.g8d5f66495d_0_1</url>
+                <disabled>False</disabled>
+            </item>
+            <item> Mutable Trees
+                <url>https://docs.google.com/presentation/d/1jStiFz1HPVmaq9vcOIA04YTXM2mG6bn2cVgPrM4PuuE/edit#slide=id.g8cbd11080f_0_74</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section> CSM Section Week 9
+            <item> Notes
+                <url>/</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+    </column>
+</announcement>

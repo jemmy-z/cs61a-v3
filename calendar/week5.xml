@@ -1,27 +1,27 @@
 <announcement>
-    <header>Week 6 (September 29 - October 2): Lists, Trees</header>
+    <header>Week 5 (September 21 - September 25): Data Abstraction, Lists</header>
     <column>
         Weekly Materials
         <section>
-            Tutorial #5
+            Tutorial #4
             <item>
                 Worksheet
-                <url>https://cs61a.org/disc/disc05.pdf</url>
+                <url>https://cs61a.org/disc/disc04.pdf</url>
                 <disabled>False</disabled>
             </item>
             <item>
                 Solutions
-                <url>https://cs61a.org/disc/disc05_sol.pdf</url>
+                <url>https://cs61a.org/disc/disc04_sol.pdf</url>
                 <disabled>False</disabled>
             </item>
         </section>
-        <section>CSM Section Week 6
+        <section>CSM Section Week 5
             <item>Worksheet
-                <url>./worksheets/mentor06.pdf</url>
+                <url>./worksheets/mentor05.pdf</url>
                 <disabled>False</disabled>
             </item>
             <item>Solutions
-                <url>./worksheets/mentor06_sol.pdf</url>
+                <url>./worksheets/mentor05_sol.pdf</url>
                 <disabled>False</disabled>
             </item>
         </section>
@@ -29,24 +29,10 @@
     <column>
         Other Resources
         <section>
-            Lists Notes
+            Recursion Walkthrough with Examples (Spring 2020)
             <item>
                 PDF
-                <url>https://drive.google.com/file/d/1HqRXRoIxGn8vSXTm7aqfheRQ5rUvqRtk/view?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-        </section>
-        <section>
-            Trees Notes
-            <item>
-                PDF
-                <url>https://drive.google.com/file/d/15S1cq8utSupCLUC7GW3-1txAqIYJtbr1/view?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-        </section>
-        <section> Summer 2020 Discussion Slides
-            <item> Trees
-                <url>https://docs.google.com/presentation/d/1FJ3ZJhdRp3bpYDP9Wg9xqxTYA3H0Cfdz_G_w6XqsoB0/edit#slide=id.g82203b8675_0_0</url>
+                <url>https://drive.google.com/file/d/1tdqz6YDXbpLn4iNhOsYXCMKdQ5uo98hn/view?usp=sharing</url>
                 <disabled>False</disabled>
             </item>
         </section>

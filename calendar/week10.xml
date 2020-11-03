@@ -1,0 +1,32 @@
+<announcement>
+    <header>Week 10 (October 26 - October 30): Midterm Review</header>
+    <column>
+        Weekly Materials
+        <section>
+            Tutorial (canceled)
+            <item>
+                Worksheet
+                <url>/</url>
+                <disabled>True</disabled>
+            </item>
+            <item>
+                Solutions
+                <url>/</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+        <section>CSM Section Week 10
+            <item>Worksheet
+                <url>./worksheets/mentor10.pdf</url>
+                <disabled>False</disabled>
+            </item>
+            <item>Solutions
+                <url>./worksheets/mentor10_sol.pdf</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+    </column>
+    <column>
+        Other Resources
+    </column>
+</announcement>

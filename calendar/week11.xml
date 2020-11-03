@@ -1,0 +1,44 @@
+<announcement>
+    <header>Week 11 (November 2 - October 6): Intro to Scheme</header>
+    <column>
+        Weekly Materials
+        <section>
+            Tutorial 10
+            <item>
+                Worksheet
+                <url>/</url>
+                <disabled>True</disabled>
+            </item>
+            <item>
+                Solutions
+                <url>/</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+        <section>CSM Section Week 11
+            <item>Worksheet
+                <url>./worksheets/mentor11.pdf</url>
+                <disabled>False</disabled>
+            </item>
+            <item>Solutions
+                <url>./worksheets/mentor11_sol.pdf</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+    </column>
+    <column>
+        Other Resources
+        <section> Summer 2020 Discussion Slides
+            <item> Scheme
+                <url>https://docs.google.com/presentation/d/1P7wjDagM1ArblTajz29F_VhImVXX4nBiaFDuMOaGZWo/edit#slide=id.g8d3c266f3a_0_10</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section> CSM Section Week 11
+            <item> Recording
+                <url>/</url>
+                <disabled>True</disabled>
+            </item>
+        </section>
+    </column>
+</announcement>

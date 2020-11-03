@@ -1,40 +1,22 @@
 <announcement>
-    <header>Week 5 (September 21 - September 25): Data Abstraction, Lists</header>
+    <header>Week 4 (September 14  - September 18):  Recursion, Tree Recursion</header>
     <column>
         Weekly Materials
         <section>
-            Tutorial #4
+            Tutorial #3
             <item>
                 Worksheet
-                <url>https://cs61a.org/disc/disc04.pdf</url>
+                <url>https://cs61a.org/disc/disc03.pdf</url>
                 <disabled>False</disabled>
             </item>
             <item>
                 Solutions
-                <url>https://cs61a.org/disc/disc04_sol.pdf</url>
-                <disabled>False</disabled>
-            </item>
-        </section>
-        <section>CSM Section Week 5
-            <item>Worksheet
-                <url>./worksheets/mentor05.pdf</url>
-                <disabled>False</disabled>
-            </item>
-            <item>Solutions
-                <url>./worksheets/mentor05_sol.pdf</url>
+                <url>https://cs61a.org/disc/disc03_sol.pdf</url>
                 <disabled>False</disabled>
             </item>
         </section>
     </column>
     <column>
         Other Resources
-        <section>
-            Recursion Walkthrough with Examples (Spring 2020)
-            <item>
-                PDF
-                <url>https://drive.google.com/file/d/1tdqz6YDXbpLn4iNhOsYXCMKdQ5uo98hn/view?usp=sharing</url>
-                <disabled>False</disabled>
-            </item>
-        </section>
     </column>
 </announcement>

@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup, Tag
 
 
 weeks = [int(w) for w in sys.argv[1:]]
-total_weeks = 8
+total_weeks = 10
 
 file = codecs.open("./temp/index.html", "r", "utf-8")
 soup = BeautifulSoup(file.read(), 'html.parser')
@@ -19,7 +19,7 @@ for i in weeks:
     root = tree.getroot()
 
     button = accordian_soup.find(id="week%s" % i)
-    if i == len(weeks):
+    if i == weeks[-1]:
         button['class'].remove('collapsed')
         body = accordian_soup.find(id="collapse%i" % i)
         body['class'].append('show')

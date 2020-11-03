@@ -1,8 +1,7 @@
 <announcement>
-    <date>Tuesday, September 8</date>
+    <date>Monday, August 31</date>
     <info>Welcome to CS 61A {% SEMESTER %}!</info>
     <info>&lt;b&gt;[Tutorial]&lt;/b&gt;Tutorial attendance is mandatory. Please arrive to tutorials on time. If you are more than 3 minutes late, you will be marked absent.</info>
     <info>&lt;b&gt;[Tutorial]&lt;/b&gt;Please go to discussion orientation before coming to tutorials. We do not have time to both review the material and talk about problem solving methods in 25 minutes.</info>
-    <info>&lt;b&gt;[CSM]&lt;/b&gt;CSM section sign ups open on Sunday 9/13 at 6 PM PST.</info>
     <info>You can find out more about me &lt;a href="about.html"&gt;here&lt;/a&gt;.</info>
 </announcement>

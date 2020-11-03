@@ -1,55 +1,59 @@
 <announcement>
-    <header>Week 8 (October 12 - October 16): Object Orientated Programming</header>
+    <header>Week 7 (October 5 - October 9): Binary Numbers, Mutation</header>
     <column>
         Weekly Materials
         <section>
-            Tutorial #6
+            Tutorial #5
             <item>
                 Worksheet
-                <url>https://cs61a.org/disc/disc07.pdf</url>
+                <url>https://cs61a.org/disc/disc06.pdf</url>
                 <disabled>False</disabled>
             </item>
             <item>
                 Solutions
-                <url>https://cs61a.org/disc/disc07_sol.pdf</url>
+                <url>https://cs61a.org/disc/disc06_sol.pdf</url>
                 <disabled>False</disabled>
             </item>
         </section>
-        <section>CSM Section Week 8
+        <section>CSM Section Week 7
             <item>Worksheet
-                <url>./worksheets/mentor08.pdf</url>
+                <url>./worksheets/mentor07.pdf</url>
                 <disabled>False</disabled>
             </item>
             <item>Solutions
-                <url>./worksheets/mentor08_sol.pdf</url>
+                <url>./worksheets/mentor07_sol.pdf</url>
                 <disabled>False</disabled>
             </item>
         </section>
     </column>
     <column>
         Other Resources
-        <section> Summer 2020 Discussion Slides
-            <item> Nonlocal
-                <url>https://docs.google.com/presentation/d/1GmnOlvZznUZBlNwkTOOmIgunWJ_xoRrIB5Fj6o-EjBE/edit#slide=id.g8d5f66495d_0_1</url>
-                <disabled>False</disabled>
-            </item>
-            <item> Iterators
-                <url>https://docs.google.com/presentation/d/1UdsfdXPKqqVI2YHDaFtXzUZ6JYbQrguEDBrcsdc1vcM/edit#slide=id.g8d5f66495d_0_1</url>
-                <disabled>False</disabled>
-            </item>
-            <item> Generators
-                <url>https://docs.google.com/presentation/d/1UdsfdXPKqqVI2YHDaFtXzUZ6JYbQrguEDBrcsdc1vcM/edit#slide=id.g8e625f3938_0_143</url>
-                <disabled>False</disabled>
-            </item>
-            <item> OOP
-                <url>https://docs.google.com/presentation/d/1UdsfdXPKqqVI2YHDaFtXzUZ6JYbQrguEDBrcsdc1vcM/edit#slide=id.g8e625f3938_0_184</url>
+        <section>
+            Lists Notes
+            <item>
+                PDF
+                <url>https://drive.google.com/file/d/1HqRXRoIxGn8vSXTm7aqfheRQ5rUvqRtk/view?usp=sharing</url>
                 <disabled>False</disabled>
             </item>
         </section>
-        <section> CSM Section Week 8
+        <section>
+            Trees Notes
+            <item>
+                PDF
+                <url>https://drive.google.com/file/d/15S1cq8utSupCLUC7GW3-1txAqIYJtbr1/view?usp=sharing</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section> Summer 2020 Discussion Slides
+            <item> List Mutatation
+                <url>https://docs.google.com/presentation/d/1FJ3ZJhdRp3bpYDP9Wg9xqxTYA3H0Cfdz_G_w6XqsoB0/edit#slide=id.g8d5f66495d_0_52</url>
+                <disabled>False</disabled>
+            </item>
+        </section>
+        <section> CSM Section Week 7
             <item> Notes
-                <url>/</url>
-                <disabled>True</disabled>
+                <url>https://drive.google.com/file/d/1EXdS-e3k9VIeS-NbO60rkC0QUcpZ-EiJ/view?usp=sharing</url>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>
