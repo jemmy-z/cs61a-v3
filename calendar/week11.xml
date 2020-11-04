@@ -6,12 +6,12 @@
             Tutorial 10
             <item>
                 Worksheet
-                <url>/</url>
-                <disabled>True</disabled>
+                <url>https://cs61a.org/disc/disc10.pdf</url>
+                <disabled>False</disabled>
             </item>
             <item>
                 Solutions
-                <url>/</url>
+                <url>https://cs61a.org/disc/disc10_sol.pdf</url>
                 <disabled>True</disabled>
             </item>
         </section>
