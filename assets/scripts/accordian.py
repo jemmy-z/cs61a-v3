@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup, Tag
 
 
 weeks = [int(w) for w in sys.argv[1:]]
-total_weeks = 10
+total_weeks = 11
 
 file = codecs.open("./temp/index.html", "r", "utf-8")
 soup = BeautifulSoup(file.read(), 'html.parser')
