@@ -12,7 +12,7 @@ declare -a ANNOUNCEMENT_FILES
 declare -a NAVBAR_FILES
 
 SEMESTER="Fall 2020"
-WEEKS=(2 3 4 5 6 7 8 9 10 11 12)
+WEEKS=(2 3 4 5 6 7 8 9 10 11 12 13)
 SURVEY="https://forms.gle/R6o4ch6bFjiuScAaA"
 VERSION="v1.0.1"
 

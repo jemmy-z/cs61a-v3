@@ -1,5 +1,5 @@
 <announcement>
-    <header>Week 12 (November 9 - October 13): More Scheme</header>
+    <header>Week 12 (November 9 - November 13): More Scheme</header>
     <column>
         Weekly Materials
         <section>
@@ -7,12 +7,12 @@
             <item>
                 Worksheet
                 <url>https://cs61a.org/disc/disc11.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
             <item>
                 Solutions
                 <url>https://cs61a.org/disc/disc11_sol.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
         </section>
         <section>CSM Section Week 12
@@ -22,7 +22,7 @@
             </item>
             <item>Solutions
                 <url>./worksheets/mentor12_sol.pdf</url>
-                <disabled>True</disabled>
+                <disabled>False</disabled>
             </item>
         </section>
     </column>

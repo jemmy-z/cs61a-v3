@@ -7,7 +7,6 @@ from bs4 import BeautifulSoup, Tag
 
 
 weeks = [int(w) for w in sys.argv[1:]]
-total_weeks = 11
 
 file = codecs.open("./temp/index.html", "r", "utf-8")
 soup = BeautifulSoup(file.read(), 'html.parser')
@@ -57,7 +56,7 @@ for i in weeks:
 
 # print(accordian_soup.prettify())
 
-for i in range(weeks[-1] + 1, total_weeks+1):
+for i in range(weeks[-1] + 1, len(weeks)+1):
     button = accordian_soup.find(id="week%s" % i)
     button['class'].append('disabled')
 
