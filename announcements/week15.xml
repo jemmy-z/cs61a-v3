@@ -1,0 +1,5 @@
+<announcement>
+    <date>Tuesday, December 1</date>
+    <info>Welcome to CS 61A {% SEMESTER %}!</info>
+    <info>Good luck with finals!</info>
+</announcement>
