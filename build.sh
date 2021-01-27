@@ -11,8 +11,8 @@ declare -a WEEKS
 declare -a ANNOUNCEMENT_FILES
 declare -a NAVBAR_FILES
 
-SEMESTER="Fall 2020"
-WEEKS=(2 3 4 5 6 7 8 9 10 11 12 13 14 15)
+SEMESTER="Spring 2021"
+WEEKS=(2)
 SURVEY="https://forms.gle/R6o4ch6bFjiuScAaA"
 VERSION="v1.0.1"
 
@@ -23,7 +23,6 @@ CALENDAR_FILES=("index.html")
 FOOTER_FILES=("index.html" "about.html")
 
 mkdir -p temp
-source venv/bin/activate
 python3 assets/scripts/header.py ${HEADER_FILES[*]}
 echo "Finished assembling header in ${HEADER_FILES[*]}"
 python3 assets/scripts/navbar.py ${NAVBAR_FILES[*]}
@@ -34,7 +33,6 @@ python3 assets/scripts/accordian.py ${WEEKS[*]}
 echo "Finished assembling weekly schedule in ${INDEX_FILES[*]}"
 python3 assets/scripts/footer.py ${FOOTER_FILES[*]}
 echo "Finished assembling footer in ${FOOTER_FILES[*]}"
-deactivate
 
 grep -rl "{% SURVEY %}" temp/ | xargs sed -i -e "s,{% SURVEY %},${SURVEY},g"
 echo "Finished inserting anonymous survey links"

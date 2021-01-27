@@ -1,24 +1,24 @@
 <announcement>
-    <header>Week 2 (August 31 - September 4): Control, Functions</header>
+    <header>Week 2 (January 25 - January 29): Control, Environment Diagrams</header>
     <column>Weekly Materials
-        <section>Tutorial #1
+        <section>Discussion 1
             <item>Worksheet
-                <url>https://cs61a.org/disc/disc01.pdf</url>
+                <url>https://cs61a.org/disc/disc01/</url>
                 <disabled>False</disabled>
             </item>
             <item>Solutions
-                <url>https://cs61a.org/disc/disc01_sol.pdf</url>
-                <disabled>False</disabled>
+                <url>/</url>
+                <disabled>True</disabled>
             </item>
         </section>
-        <section>CSM Section #2
+        <section>CSM Section Week 2
             <item>Worksheet
-                <url>./worksheets/mentor02.pdf</url>
+                <url>https://drive.google.com/file/d/1VP3vpi01KDlzSKO1ok2OElQk7WkqOqFl/view</url>
                 <disabled>False</disabled>
             </item>
             <item>Solutions
-                <url>./worksheets/mentor02_sol.pdf</url>
-                <disabled>False</disabled>
+                <url>/</url>
+                <disabled>True</disabled>
             </item>
         </section>
     </column>
